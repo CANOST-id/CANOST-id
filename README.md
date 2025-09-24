@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<span> I'm Can - upcoming WebDev </span>
+<span align="center"> I'm Can - upcoming WebDev </span>
 
 ###
 
